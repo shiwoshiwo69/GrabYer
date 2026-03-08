@@ -1,5 +1,5 @@
 ### GrabYer
-A small scripts that steals your victim's browser saved passwords. 
+A small script that steals your victim's browser saved passwords. 
 
 ### Requirements
 1. Your victim's computer (connected to the internet).
